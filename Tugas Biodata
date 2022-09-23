@@ -62,17 +62,7 @@
                 <th rowspan="2">STS</th>
                 <th rowspan="2">Mdl</th>
                 <th rowspan="2">Kelp.</th>
-                <td colspan="2">JADWAL 1</td>
-                <td colspan="4">JADWAL 2</td>
-                <td colspan="5">JADWAL 3</td>   
-            </tr>
-            <tr>
-                <th>HARI,JAM</th>
-                <TH>RUANG</TH>
-            </tr>
-            <tr>
-                <th>HARI,JAM</th>
-                <TH>RUANG</TH>
+                <td colspan="2">JADWAL 1</td> 
             </tr>
             <tr>
                 <th>HARI,JAM</th>
@@ -162,5 +152,9 @@
                 <td>-,</td>
                 <td>-,</td>
             </tr>
+        </table>
+        <center><h1>menampilkan video dari youtube</h1></center>
+        <br>
+        <center><iframe width="500px" height="500px" src="https://www.youtube.com/embed/swkVlJaXMIA?autoplay=1"></iframe></center>
 </body>
 </html>
